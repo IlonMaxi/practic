@@ -1,0 +1,13 @@
+[Thu Jun 22 01:13:23.692032 2023] [ssl:warn] [pid 4792:tid 336] AH01909: practic.loc:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 01:13:23.697016 2023] [ssl:warn] [pid 4792:tid 336] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 01:13:23.714037 2023] [ssl:warn] [pid 4792:tid 336] AH01909: practic.loc:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 01:13:23.719020 2023] [ssl:warn] [pid 4792:tid 336] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 01:13:23.752023 2023] [mpm_winnt:notice] [pid 4792:tid 336] AH00455: Apache/2.4.54 (Win64) OpenSSL/3.0.5 configured -- resuming normal operations
+[Thu Jun 22 01:13:23.752023 2023] [mpm_winnt:notice] [pid 4792:tid 336] AH00456: Server built: Jul 26 2022 23:58:26
+[Thu Jun 22 01:13:23.752023 2023] [core:notice] [pid 4792:tid 336] AH00094: Command line: 'C:\\Users\\elfim\\server5342\\ospanel\\modules\\http\\Apache_2.4-PHP_8.0-8.1\\bin\\httpd.exe -d C:/Users/elfim/Server5342/OSPanel/modules/http/Apache_2.4-PHP_8.0-8.1 -f c:\\users\\elfim\\server5342\\ospanel\\modules\\http\\Apache_2.4-PHP_8.0-8.1\\conf\\httpd.conf'
+[Thu Jun 22 01:13:23.754016 2023] [mpm_winnt:notice] [pid 4792:tid 336] AH00418: Parent: Created child process 8508
+[Thu Jun 22 01:13:23.955343 2023] [ssl:warn] [pid 8508:tid 340] AH01909: practic.loc:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 01:13:23.960326 2023] [ssl:warn] [pid 8508:tid 340] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 01:13:23.974280 2023] [ssl:warn] [pid 8508:tid 340] AH01909: practic.loc:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 01:13:23.978267 2023] [ssl:warn] [pid 8508:tid 340] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 01:13:24.012153 2023] [mpm_winnt:notice] [pid 8508:tid 340] AH00354: Child: Starting 128 worker threads.

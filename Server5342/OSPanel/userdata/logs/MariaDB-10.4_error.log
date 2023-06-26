@@ -1,0 +1,36 @@
+2023-06-22  1:13:23 0 [Note] c:\users\elfim\server5342\ospanel\modules\database\MariaDB-10.4\bin\mysqld.exe (mysqld 10.4.26-MariaDB-log) starting as process 1652 ...
+2023-06-22  1:13:23 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-06-22  1:13:23 0 [Note] InnoDB: Uses event mutexes
+2023-06-22  1:13:23 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-06-22  1:13:23 0 [Note] InnoDB: Number of pools: 1
+2023-06-22  1:13:23 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-06-22  1:13:23 0 [Note] InnoDB: Initializing buffer pool, total size = 256M, instances = 1, chunk size = 128M
+2023-06-22  1:13:23 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-06-22  1:13:23 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-06-22  1:13:23 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-06-22  1:13:23 0 [Note] InnoDB: Setting file 'c:\users\elfim\server5342\ospanel\userdata\MariaDB-10.4\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-06-22  1:13:23 0 [Note] InnoDB: File 'c:\users\elfim\server5342\ospanel\userdata\MariaDB-10.4\ibtmp1' size is now 12 MB.
+2023-06-22  1:13:23 0 [Note] InnoDB: Waiting for purge to start
+2023-06-22  1:13:23 0 [Note] InnoDB: 10.4.26 started; log sequence number 61515; transaction id 20
+2023-06-22  1:13:23 0 [Note] InnoDB: Loading buffer pool(s) from c:\users\elfim\server5342\ospanel\userdata\MariaDB-10.4\ib_buffer_pool
+2023-06-22  1:13:23 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-06-22  1:13:23 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-06-22  1:13:23 0 [Note] InnoDB: Buffer pool(s) load completed at 230622  1:13:23
+2023-06-22  1:13:23 0 [Note] Reading of all Master_info entries succeeded
+2023-06-22  1:13:23 0 [Note] Added new Master_info '' to hash table
+2023-06-22  1:13:23 0 [Note] c:\users\elfim\server5342\ospanel\modules\database\MariaDB-10.4\bin\mysqld.exe: ready for connections.
+Version: '10.4.26-MariaDB-log'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-06-22  9:10:12 110 [Warning] Access denied for user 'forge'@'localhost' (using password: NO)
+2023-06-22  9:10:13 111 [Warning] Access denied for user 'forge'@'localhost' (using password: NO)
+2023-06-22  9:10:13 112 [Warning] Access denied for user 'forge'@'localhost' (using password: NO)
+2023-06-22  9:10:14 113 [Warning] Access denied for user 'forge'@'localhost' (using password: NO)
+2023-06-23 23:40:54 0 [Note] c:\users\elfim\server5342\ospanel\modules\database\MariaDB-10.4\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2023-06-23 23:40:54 0 [Note] Event Scheduler: Purging the queue. 0 events
+2023-06-23 23:40:54 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-06-23 23:40:54 0 [Note] InnoDB: Starting shutdown...
+2023-06-23 23:40:54 0 [Note] InnoDB: Dumping buffer pool(s) to c:\users\elfim\server5342\ospanel\userdata\MariaDB-10.4\ib_buffer_pool
+2023-06-23 23:40:54 0 [Note] InnoDB: Buffer pool(s) dump completed at 230623 23:40:54
+2023-06-23 23:40:55 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-06-23 23:40:55 0 [Note] InnoDB: Shutdown completed; log sequence number 81786; transaction id 82
+2023-06-23 23:40:55 0 [Note] c:\users\elfim\server5342\ospanel\modules\database\MariaDB-10.4\bin\mysqld.exe: Shutdown complete
+

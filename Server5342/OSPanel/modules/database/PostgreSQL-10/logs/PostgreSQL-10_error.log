@@ -1,0 +1,49 @@
+2023-06-21 23:32:15.869 +03 [5256] LOG:  database system was shut down at 2022-08-19 16:13:01 +03
+2023-06-21 23:32:15.895 +03 [14536] LOG:  database system is ready to accept connections
+2023-06-21 23:32:32.866 +03 [14536] LOG:  received fast shutdown request
+2023-06-21 23:32:32.869 +03 [14536] LOG:  aborting any active transactions
+2023-06-21 23:32:32.871 +03 [14536] LOG:  worker process: logical replication launcher (PID 11660) exited with exit code 1
+2023-06-21 23:32:32.882 +03 [10572] LOG:  shutting down
+2023-06-21 23:32:32.916 +03 [14536] LOG:  database system is shut down
+2023-06-21 23:32:35.732 +03 [14112] LOG:  database system was shut down at 2023-06-21 23:32:32 +03
+2023-06-21 23:32:35.744 +03 [14460] LOG:  database system is ready to accept connections
+2023-06-21 23:32:52.657 +03 [14460] LOG:  received fast shutdown request
+2023-06-21 23:32:52.658 +03 [14460] LOG:  aborting any active transactions
+2023-06-21 23:32:52.691 +03 [14460] LOG:  worker process: logical replication launcher (PID 864) exited with exit code 1
+2023-06-21 23:32:52.693 +03 [12060] LOG:  shutting down
+2023-06-21 23:32:52.757 +03 [14460] LOG:  database system is shut down
+2023-06-21 23:33:06.273 +03 [10756] LOG:  database system was shut down at 2023-06-21 23:32:52 +03
+2023-06-21 23:33:06.304 +03 [4720] LOG:  database system is ready to accept connections
+2023-06-21 23:33:22.950 +03 [4720] LOG:  received fast shutdown request
+2023-06-21 23:33:22.951 +03 [4720] LOG:  aborting any active transactions
+2023-06-21 23:33:22.953 +03 [4720] LOG:  worker process: logical replication launcher (PID 12084) exited with exit code 1
+2023-06-21 23:33:22.978 +03 [15404] LOG:  shutting down
+2023-06-21 23:33:23.012 +03 [4720] LOG:  database system is shut down
+2023-06-21 23:33:56.788 +03 [11832] LOG:  database system was shut down at 2023-06-21 23:33:22 +03
+2023-06-21 23:33:56.817 +03 [2128] LOG:  database system is ready to accept connections
+2023-06-21 23:34:13.716 +03 [2128] LOG:  received fast shutdown request
+2023-06-21 23:34:13.717 +03 [2128] LOG:  aborting any active transactions
+2023-06-21 23:34:13.732 +03 [2128] LOG:  worker process: logical replication launcher (PID 15532) exited with exit code 1
+2023-06-21 23:34:13.733 +03 [2256] LOG:  shutting down
+2023-06-21 23:34:13.743 +03 [2128] LOG:  database system is shut down
+2023-06-21 23:34:30.060 +03 [2040] LOG:  database system was shut down at 2023-06-21 23:34:13 +03
+2023-06-21 23:34:30.072 +03 [15776] LOG:  database system is ready to accept connections
+2023-06-22 00:47:32.358 +03 [15776] LOG:  received fast shutdown request
+2023-06-22 00:47:32.359 +03 [15776] LOG:  aborting any active transactions
+2023-06-22 00:47:32.361 +03 [15776] LOG:  worker process: logical replication launcher (PID 2448) exited with exit code 1
+2023-06-22 00:47:32.380 +03 [9032] LOG:  shutting down
+2023-06-22 00:47:32.428 +03 [15776] LOG:  database system is shut down
+2023-06-22 00:52:12.586 +03 [16092] LOG:  database system was shut down at 2023-06-22 00:47:32 +03
+2023-06-22 00:52:12.618 +03 [11844] LOG:  database system is ready to accept connections
+2023-06-22 01:10:25.387 +03 [11844] LOG:  received fast shutdown request
+2023-06-22 01:10:25.388 +03 [11844] LOG:  aborting any active transactions
+2023-06-22 01:10:25.411 +03 [11844] LOG:  worker process: logical replication launcher (PID 4472) exited with exit code 1
+2023-06-22 01:10:25.427 +03 [17508] LOG:  shutting down
+2023-06-22 01:10:25.474 +03 [11844] LOG:  database system is shut down
+2023-06-22 01:13:23.530 +03 [3352] LOG:  database system was shut down at 2023-06-22 01:10:25 +03
+2023-06-22 01:13:23.557 +03 [8092] LOG:  database system is ready to accept connections
+2023-06-23 23:40:54.436 +03 [8092] LOG:  received fast shutdown request
+2023-06-23 23:40:54.437 +03 [8092] LOG:  aborting any active transactions
+2023-06-23 23:40:54.462 +03 [8092] LOG:  worker process: logical replication launcher (PID 8060) exited with exit code 1
+2023-06-23 23:40:54.462 +03 [10028] LOG:  shutting down
+2023-06-23 23:40:54.510 +03 [8092] LOG:  database system is shut down
